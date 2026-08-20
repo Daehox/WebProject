@@ -81,25 +81,25 @@
 
 ### 날씨 정보 목록 및 검색
 
-![날씨 정보 게시판](./docs/images/02-weather-board.png)
+![날씨 정보 게시판](./views/images/02-weather-board.png)
 
 관리자가 등록한 날짜별 날씨 정보를 목록으로 확인하고 검색할 수 있습니다.
 
 ### 날씨 정보 상세 조회 및 댓글
 
-![날씨 정보 상세 화면](./docs/images/03-weather-detail.png)
+![날씨 정보 상세 화면](./views/images/03-weather-detail.png)
 
 게시글의 상세 날씨 정보를 확인하고 댓글을 등록할 수 있습니다.
 
 ### 현재 위치 및 기상 정보
 
-![현재 위치 및 기상 정보](./docs/images/04-location-weather.png)
+![현재 위치 및 기상 정보](./views/images/04-location-weather.png)
 
 사용자의 현재 위치를 지도에 표시하고, 해당 위치의 기온·강수량·날씨 상태를 함께 제공합니다.
 
 ### 자연재난 피해 신고 페이지 연결
 
-![자연재난 피해 신고 페이지](./docs/images/05-disaster-report-link.png)
+![자연재난 피해 신고 페이지](./views/images/05-disaster-report-link.png)
 
 서비스의 피해 신고 안내 링크를 통해 관련 공공기관 페이지로 이동할 수 있도록 구성했습니다. 위 화면은 외부 사이트이며, 해당 사이트 자체를 개발한 것은 아닙니다.
 
